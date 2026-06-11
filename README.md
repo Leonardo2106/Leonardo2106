@@ -19,6 +19,10 @@
     <a href="https://github.com/suntrack-energy/suntrack"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=suntrack-energy&repo=suntrack&theme=react&bg_color=1F222E&title_color=00C2DF&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="suntrack"></a>
     <a href="https://github.com/Leonardo2106/fiap-cpad-cp2-ReservaFIAP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonardo2106&repo=fiap-cpad-cp2-ReservaFIAP&theme=react&bg_color=1F222E&title_color=00C2DF&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="ReservaFIAP"></a>
     <a href="https://github.com/Leonardo2106/fiap-poo-sprint1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonardo2106&repo=fiap-poo-sprint1&theme=react&bg_color=1F222E&title_color=00C2DF&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Sprint1 FiapPoo"></a>
+    <a href="https://github.com/Leonardo2106/ecodart-mission-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonardo2106&repo=ecodart-mission-app&theme=react&bg_color=1F222E&title_color=00C2DF&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Sprint1 FiapPoo"></a>
+    <a href="https://github.com/Leonardo2106/ecodart-mission"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonardo2106&repo=ecodart-mission&theme=react&bg_color=1F222E&title_color=00C2DF&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Sprint1 FiapPoo"></a>
+    <a href="https://github.com/Leonardo2106/fastapi-alexa-voltrix"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonardo2106&repo=fastapi-alexa-voltrix&theme=react&bg_color=1F222E&title_color=00C2DF&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Sprint1 FiapPoo"></a>
+    
   </p>
 
 <br/>
